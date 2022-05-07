@@ -22,5 +22,7 @@ To allow users an easy way to use apriori algorithm.
 <img src="screenshots/frequency.png" height="480"> &nbsp; <img src="screenshots/plot.png" height="480"> <img src="screenshots/rules.png" height="480">
 
 
+#### Acknowledgments
 
+Thanking **Tcheneghon Motcheyo**, whose apriori implementation in dart has been modified and used from [here](https://github.com/Herman-Motcheyo/Apriori-And-AprioriTID-Algorithm-And-Association-rule-Dart-Language)
 
